@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstname": "tanuj",
+      "lastname": "mehta",
+      "email": "tanujmehta@gmail.com",
+      "dob": "2023-04-11T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Intermediate",
+      "company": "google",
+      "experience": 43,
+      "package": 435,
+      "id": 1
+    },
+    {
+      "firstname": "ram",
+      "lastname": "singh",
+      "email": "ramsingh@gmail.com",
+      "dob": "2023-04-02T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Graduate",
+      "company": "ref",
+      "experience": 43,
+      "package": 435,
+      "id": 2
+    }
+  ]
+}
